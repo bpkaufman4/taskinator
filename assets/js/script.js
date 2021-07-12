@@ -9,5 +9,3 @@ var createTaskHandler = function() {
 }
 
 buttonEl.addEventListener("click", createTaskHandler);
-
-var githelp
